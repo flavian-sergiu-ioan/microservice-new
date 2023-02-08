@@ -1,0 +1,8 @@
+C:\Users\Flavian\IdeaProjects\microservice-new\order-service\src\main\java\com\microservice\orderservice\dto\OrderRequestDTO.java
+C:\Users\Flavian\IdeaProjects\microservice-new\order-service\src\main\java\com\microservice\orderservice\controller\OrderController.java
+C:\Users\Flavian\IdeaProjects\microservice-new\order-service\src\main\java\com\microservice\orderservice\model\Order.java
+C:\Users\Flavian\IdeaProjects\microservice-new\order-service\src\main\java\com\microservice\orderservice\model\OrderLineItems.java
+C:\Users\Flavian\IdeaProjects\microservice-new\order-service\src\main\java\com\microservice\orderservice\dto\OrderLineItemsDTO.java
+C:\Users\Flavian\IdeaProjects\microservice-new\order-service\src\main\java\com\microservice\orderservice\repository\OrderRepository.java
+C:\Users\Flavian\IdeaProjects\microservice-new\order-service\src\main\java\com\microservice\orderservice\service\OrderService.java
+C:\Users\Flavian\IdeaProjects\microservice-new\order-service\src\main\java\com\microservice\orderservice\OrderServiceApplication.java
